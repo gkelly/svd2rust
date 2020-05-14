@@ -1,3 +1,7 @@
+*This is the `bleeding-edge` branch of `gkelly/svd2rust`. It patches the
+`svd-parser` dependency to be a direct git reference and not pin to the
+released crate. You should not be using this branch.*
+
 [![crates.io](https://img.shields.io/crates/d/svd2rust.svg)](https://crates.io/crates/svd2rust)
 [![crates.io](https://img.shields.io/crates/v/svd2rust.svg)](https://crates.io/crates/svd2rust)
 

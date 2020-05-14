@@ -43,7 +43,8 @@ anyhow = "1.0.19"
 thiserror = "1.0.5"
 
 [dependencies.svd-parser]
-version = "0.9"
+git = "https://github.com/rust-embedded/svd"
+rev = "4d384c5e3f168d4175b276a782a6762ffcd2a8dc"
 features = ["derive-from"]
 
 [dependencies.syn]
